@@ -7,12 +7,13 @@ Hi, am Andrey, 22 y.o. bachelor of the CSF.
 - 🐘 PostgreSQL
 - 🍃 Spring boot
 - 💻 Linux
+- My Spring project [here](https://gitlab.com/netcracker1/application/-/tree/master)
 
 ## I'm interested in
 - Java backend development
 - Android development
 
-### If you want to contact with me
+### If you want to contact me
 email: quanter.box@gmail.com\
 telegram: @quanter_gram
 
