@@ -2,11 +2,11 @@
 Hi, am Andrey, 22 y.o. bachelor of the CSF.
 
 ## My experience
-- ☕️ Java
-- ❄️ Hibernate
-- 🐘 PostgreSQL
-- 🍃 Spring boot
-- 💻 Linux
+- ☕️ `Java`
+- ❄️ `Hibernate`
+- 🐘 `PostgreSQL`
+- 🍃 `Spring boot`
+- 💻 `Linux`
 - My Spring project [here](https://gitlab.com/netcracker1/application/-/tree/master)
 
 ## I'm interested in
