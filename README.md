@@ -1,5 +1,5 @@
 ## About me
-Hi, am Andrey, 23 y.o. bachelor of the CSF.
+Hi, am Andrey, 23 y.o. bachelor of the CS.
 
 ## My experience
 - ☕️ `Java`
