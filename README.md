@@ -10,8 +10,8 @@ Hi, am Andrey, 23 y.o. bachelor of the CS.
 - My Spring project [here](https://gitlab.com/netcracker1/application/-/tree/master)
 
 ## I'm interested in
-- Java backend development
-- Android development
+- Backend development
+- Linux administration
 
 ### If you want to contact me
 email: quanter.box@gmail.com\
