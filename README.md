@@ -1,5 +1,5 @@
 ## About me
-Hi, am Andrey, 23 y.o. bachelor of the CS.
+Hi, am Andrey, 25 y.o. bachelor of the CS. Web-dev, java backend
 
 ## My experience
 - ☕️ `Java`
@@ -7,7 +7,6 @@ Hi, am Andrey, 23 y.o. bachelor of the CS.
 - 🐘 `PostgreSQL`
 - 🍃 `Spring boot`
 - 💻 `Linux`
-- My Spring project [here](https://gitlab.com/netcracker1/application/-/tree/master)
 
 ## I'm interested in
 - Backend development
