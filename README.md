@@ -1,16 +1,10 @@
 ## About me
-Hi, am Andrey, 25 y.o. bachelor of the CS. Web-dev, java backend
-
-## My experience
-- ☕️ `Java`
-- ❄️ `Hibernate`
-- 🐘 `PostgreSQL`
-- 🍃 `Spring boot`
-- 💻 `Linux`
+Hi, am Andrey, 27 y.o. Web-dev.
 
 ## I'm interested in
-- Backend development
-- Linux administration
+- Suckless software
+- JS-free Web development
+- Linux/FreeBSD
 
 ### If you want to contact me
 email: quanter.box@gmail.com\
